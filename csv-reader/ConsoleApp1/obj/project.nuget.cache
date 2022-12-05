@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i/aN8/BEFgafHbp46zR50W2ENQfybtDRQdbNTJ6sIXWpZOx2dLYKrxXt4qtkxctBNDWRU9twiBwa9jGjnQlDXQ==",
+  "success": true,
+  "projectFilePath": "D:\\AAGawe\\Csharp\\console-app\\csv-reader\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
